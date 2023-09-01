@@ -1,1 +1,1 @@
-These are small projects designed to showcase different aspects of data cleaning and processing using SQL. They files are not related, but showcase the same idea of cleaning and processing. # PortfolioProjects
+These are projects designed to showcase different aspects of data cleaning and processing using SQL. The files are not related, but showcase the same idea of cleaning and processing. # PortfolioProjects
