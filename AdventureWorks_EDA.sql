@@ -1895,7 +1895,7 @@ Set @BOM = DATEFROMPARTS(Year(@Today), Month(@Today), 1)
 Select @BOM
 
 
-------------------------Storing Procedures-------
+------------------------Storing Procedures-------                    **muy importante******
 
 Create procedure dbo.OrderNames
 
